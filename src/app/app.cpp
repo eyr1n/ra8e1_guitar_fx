@@ -9,7 +9,6 @@
 #include "Wire.h"
 #include "config.h"
 
-
 void setup();
 void loop(float *left, float *right);
 
