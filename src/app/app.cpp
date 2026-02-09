@@ -6,7 +6,9 @@
 #include "hal_data.h"
 
 #include "SparkFun_WM8960_Arduino_Library.h"
+#include "Wire.h"
 #include "config.h"
+
 
 void setup();
 void loop(float *left, float *right);
